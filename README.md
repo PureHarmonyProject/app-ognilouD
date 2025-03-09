@@ -1,2 +1,2 @@
 # app-duolingo
-Duolingo application for Oniro
+Duolingo application for PureHarmony 
